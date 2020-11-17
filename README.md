@@ -1,3 +1,3 @@
 # ML-algorithms
-This are  Linear Regression Problem.
-I have builded different models to find best one with high r square and low rmse value.
+I have solved different problems using ML algorithms.
+Suggestions are welcomed.
